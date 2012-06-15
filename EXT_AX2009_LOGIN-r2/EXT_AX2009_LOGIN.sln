@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXT_AX2009_LOGIN", "EXT_AX2009_LOGIN\EXT_AX2009_LOGIN.csproj", "{6847D45E-42AC-4A6A-AC71-61B54F81C001}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EXTlogin", "EXTlogin\EXTlogin.vdproj", "{39338CEB-8795-4C0C-8FF0-2E07CC8432F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6847D45E-42AC-4A6A-AC71-61B54F81C001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6847D45E-42AC-4A6A-AC71-61B54F81C001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6847D45E-42AC-4A6A-AC71-61B54F81C001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6847D45E-42AC-4A6A-AC71-61B54F81C001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39338CEB-8795-4C0C-8FF0-2E07CC8432F9}.Debug|Any CPU.ActiveCfg = Debug
+		{39338CEB-8795-4C0C-8FF0-2E07CC8432F9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
