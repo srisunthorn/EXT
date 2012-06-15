@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EXT_AX2009_LOGIN" GeneratedClassName="SettingNew">
+  <Profiles />
+  <Settings>
+    <Setting Name="domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">exedy-thai</Value>
+    </Setting>
+    <Setting Name="ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.141</Value>
+    </Setting>
+    <Setting Name="port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2715</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
